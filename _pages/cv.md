@@ -11,49 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Computer Science in University of Pittsburgh, 2023
+* B.S. Applied Math in University of Pittsburgh, 2023
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun 2022 - Aug 2022: Student Research Assistant
+  * University of Pittsburgh   
+  * Speech Recognition Model in Noisy Bilingual Environment
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct 2022 – May 2023: Student Research Assistant
+  * University of Pittsburgh   
+  * Accelerating Sphere Decoding Using Hardware Ray Tracing
+
+* May 2023 – July 2023: Student Research Assistant
+  * University of Pittsburgh   
+  * Exploring Mobile Acoustic Field for Near-Face Gesture-based Interactions
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* MATLAB
+* C/C++
+* Java
+* PyTorch
+* Jupyter
+* SciPy
+* NumPy
 
-Publications
+
+    
+Intern Experience
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* May 2019 - Aug 2019 : Software Engineering Intern
+  * Guoyuan Securities Co.  
